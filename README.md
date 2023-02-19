@@ -19,3 +19,5 @@ The datasets utilized for this analysis are as follows:
 * **household_eul_2002-2020.sav**: Household-level data file
 * **individual_eul_2002-2020.sav**: Individual-level data file
 * **trip_eul_2002-2020.sav**: Trip-level data file
+ 
+Note that the size of the files exceeds the upload limit of GitHub. As a result, the files have been downloaded and can be retrieved from my Google Drive. The Jupyter notebook includes a code that facilitates the download of these files.
