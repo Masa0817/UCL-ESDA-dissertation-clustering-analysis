@@ -1,14 +1,12 @@
 # ESDA dissertation clustering
 This is a data analysis that I conducted as part of my MSc dissertation in Energy Systems and Data Analytics at University College London (UCL).
-
+  
+  
 ## Description
 The aim of this analysis is to identify potential user groups in the UK that are inclined to adopt autonomous vehicles (AVs). It is anticipated that individuals who currently do not, or cannot, drive - such as children and the elderly - may rely on AVs for transportation once they become fully automated. To estimate the size of such groups, clustering analysis will be performed in order to identify them.
 
-
-
-To achieve this, data from [the UK National Travel Survey](https://www.gov.uk/government/statistics/national-travel-survey-2019) will be employed, including:
-
- 
+   
+   
 ## Data
 [The UK National Travel Survey (NTS)](https://www.gov.uk/government/statistics/national-travel-survey-2019) is an annual travel database of UK households that is collected by the Department for Transport (DfT) (DfT, 2022). This anonymized dataset contains basic information about individuals, such as age, gender, and economic status, as well as subjective survey responses, including reasons for not driving. Additionally, it includes travel-related records, such as travel time, distance, and mode choice. The NTS dataset will be used to identify new user groups and estimate mode choice.
  
